@@ -2,7 +2,7 @@
 ⚙️ I'm studying in College of Advanced Manufacturing Innovation - KMITL
 
 - 📖 I'm currently learning Python, C++
-- 👀 I’m interested in: Machine Learning, Embedded System, Neutral Network
+- 👀 I’m interested in: Machine Learning, Embedded System, Neural Network
 - 🌱 I’m currently learning about CNN
 
 <!---
